@@ -1,16 +1,62 @@
-# React + Vite
+# React Bits - Chroma Grid
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 01. Project Title
+**React Bits - Chroma Grid Image Gallery**
 
-Currently, two official plugins are available:
+## 02. Description
+A modern and interactive image gallery built using React.js and the ChromaGrid component from React Bits. It showcases beautiful images with attractive hover effects, spotlight reveal animations, customizable colors, and engaging image descriptions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 03. Features
+- Interactive ChromaGrid image gallery.
+- Spotlight reveal effect.
+- Attractive image cards.
+- Custom image titles and subtitles.
+- Smooth hover animations.
+- Customizable card colors and styling.
+- Responsive grid layout.
 
-## React Compiler
+## 04. Technologies Used
+- React.js
+- JavaScript
+- CSS
+- React Bits
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 05. Installation & Usage
 
-## Expanding the ESLint configuration
+**Step 1: Clone the repository**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/your-username/react-bits-chroma-grid.git
+```
+
+**Step 2: Navigate to the project folder**
+
+```bash
+cd react-bits-chroma-grid
+```
+
+**Step 3: Install dependencies**
+
+```bash
+npm install
+```
+
+**Step 4: Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the localhost URL displayed in the terminal.
+
+## 06. Images Used
+- Lotus
+- Peacock
+- Lion
+- Sunset
+- House
+- Ocean Waves
+
+## 07. Author
+Developed using React Bits as a React.js practice project.
